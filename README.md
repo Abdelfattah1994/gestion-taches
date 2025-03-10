@@ -1,4 +1,4 @@
-Gestion d'une Liste de Tâches en Node.js
+Gestion d'une Liste de Tâches
 
 Cette application console permet de gérer une liste de tâches, en offrant des fonctionnalités interactives pour ajouter, afficher, marquer comme terminées, supprimer et sauvegarder des tâches.
 
